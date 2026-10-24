@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="project1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="31"/>
+      </Unit>
+      <Unit>
+        <Filename Value="fventana.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="209"/>
+        <CursorPos X="58" Y="222"/>
+        <UsageCount Value="31"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ucadena.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="357"/>
+        <CursorPos X="37" Y="353"/>
+        <UsageCount Value="31"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uconjunto.pas"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="22" Y="78"/>
+        <UsageCount Value="14"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="28">
+      <Position>
+        <Filename Value="fventana.pas"/>
+        <Caret Line="134" Column="14" TopLine="122"/>
+      </Position>
+      <Position>
+        <Filename Value="ucadena.pas"/>
+        <Caret Line="376" Column="20" TopLine="146"/>
+      </Position>
+      <Position>
+        <Filename Value="fventana.pas"/>
+        <Caret Line="90" Column="16" TopLine="79"/>
+      </Position>
+      <Position>
+        <Filename Value="fventana.pas"/>
+        <Caret Line="75" Column="49" TopLine="70"/>
+      </Position>
+      <Position>
+        <Filename Value="fventana.pas"/>
+        <Caret Line="76" Column="49" TopLine="71"/>
+      </Position>
+      <Position>
+        <Filename Value="fventana.pas"/>
+        <Caret Line="78" Column="49" TopLine="73"/>
+      </Position>
+      <Position>
+        <Filename Value="fventana.pas"/>
+        <Caret Line="85" Column="16" TopLine="73"/>
+      </Position>
+      <Position>
+        <Filename Value="fventana.pas"/>
+        <Caret Line="87" Column="16" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="fventana.pas"/>
+        <Caret Line="92" Column="35" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="fventana.pas"/>
+        <Caret Line="93" Column="35" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="fventana.pas"/>
+        <Caret Line="95" Column="35" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="fventana.pas"/>
+        <Caret Line="106" Column="3" TopLine="104"/>
+      </Position>
+      <Position>
+        <Filename Value="fventana.pas"/>
+        <Caret Line="101" Column="14" TopLine="99"/>
+      </Position>
+      <Position>
+        <Filename Value="fventana.pas"/>
+        <Caret Line="119" Column="14" TopLine="100"/>
+      </Position>
+      <Position>
+        <Filename Value="fventana.pas"/>
+        <Caret Line="218" Column="23" TopLine="214"/>
+      </Position>
+      <Position>
+        <Filename Value="fventana.pas"/>
+        <Caret Line="103" Column="15" TopLine="93"/>
+      </Position>
+      <Position>
+        <Filename Value="fventana.pas"/>
+        <Caret Line="218" Column="3" TopLine="214"/>
+      </Position>
+      <Position>
+        <Filename Value="fventana.pas"/>
+        <Caret Line="115" Column="42" TopLine="113"/>
+      </Position>
+      <Position>
+        <Filename Value="fventana.pas"/>
+        <Caret Line="125" Column="16" TopLine="110"/>
+      </Position>
+      <Position>
+        <Filename Value="fventana.pas"/>
+        <Caret Line="123" Column="3" TopLine="110"/>
+      </Position>
+      <Position>
+        <Filename Value="fventana.pas"/>
+        <Caret Line="174" Column="34" TopLine="172"/>
+      </Position>
+      <Position>
+        <Filename Value="fventana.pas"/>
+        <Caret Line="180" Column="16" TopLine="177"/>
+      </Position>
+      <Position>
+        <Filename Value="fventana.pas"/>
+        <Caret Line="185" Column="31" TopLine="177"/>
+      </Position>
+      <Position>
+        <Filename Value="fventana.pas"/>
+        <Caret Line="189" Column="48" TopLine="177"/>
+      </Position>
+      <Position>
+        <Filename Value="fventana.pas"/>
+        <Caret Line="201" Column="33" TopLine="199"/>
+      </Position>
+      <Position>
+        <Filename Value="fventana.pas"/>
+        <Caret Line="208" Column="3" TopLine="199"/>
+      </Position>
+      <Position>
+        <Filename Value="fventana.pas"/>
+        <Caret Line="207" Column="3" TopLine="198"/>
+      </Position>
+      <Position>
+        <Filename Value="fventana.pas"/>
+        <Caret Line="82" Column="3" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="fventana.pas"/>
+        <Caret Line="81" Column="3" TopLine="81"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
